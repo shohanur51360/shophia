@@ -1,0 +1,732 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+html{
+	scroll-behavior: smooth;
+}
+/**********************************************************
+	*** Global css code html code start ***
+**********************************************************/
+body{
+	font-size: 14px;
+	line-height: 24px;
+	font-family: sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+}
+a,a:hover{
+	text-decoration: none;
+}
+/**********************************************************
+	*** Global css code html code end ***
+**********************************************************/
+
+/**********************************************************
+	*** Header-section css code html code start ***
+**********************************************************/
+.header-section{
+	width: 100%;
+	padding: 10px 0px;
+	background: #f2f2f2;
+}
+.header-left{
+	width: 100%;
+	margin: 15px 0px 0px 0px;
+}
+.header-left h5 {
+    color: #4c4c4c;
+    font-size: 15px;
+    font-weight: 600;
+}
+.header-left i{
+	color: #4c4c4c;
+	font-weight: 600;
+}
+.header-right{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.header-right .navbar-light .navbar-nav .active>.nav-link {
+    font-size: 15px;
+    color: #4c4c4c;
+    font-weight: 600;
+    margin: 0px 0px 0px -10px;
+}
+.header-right .navbar-light .navbar-nav .nav-link {
+	font-size: 15px;
+	color: #4c4c4c;
+    font-weight: 600;
+    margin: 0px 0px 0px 0px;
+} 
+.header-right .navbar-light .navbar-nav .nav-link:hover{
+	color: #f09d67;
+}
+.header-right .btn-1{
+	background: transparent;
+	border: 0px;
+	font-size: 15px;
+	color: #4c4c4c;
+    font-weight: 600;
+     margin: 0px 0px 0px 0px;
+}
+.header-right .btn-1:hover{
+	background: #f09d67;
+	border: 1px solid#f09d67;
+	color: #fff;
+	padding: 12px;
+	transition: 0.8s;
+	border-radius: 2px;
+}
+.bg-light {
+    background-color: transparent!important;
+}
+/**********************************************************
+	*** Header-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Title-section css code html code start***
+**********************************************************/
+.title-section{
+	width:100%;
+	margin: 0px 0px 0px 0px;
+	background: #ffffff;
+	padding: 30px 0px;
+}
+.title-one{
+	width:100%;
+	margin: 0px 0px 0px 0px;
+}
+.title-one .nav-link.active {
+    font-family: 'BenchNine', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    color: #4c4c4c;
+    margin: 0px 0px 0px 0px;
+}
+.title-one .nav-link.active:hover{
+	color: #f09d67;
+}
+.title-one .nav-link:hover{
+	color: #f09d67;
+}
+.title-one .nav-link {
+	font-family: 'BenchNine', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    color: #4c4c4c;
+    margin: 0px 0px 0px 0px;
+}
+.title-two{
+	width:100%;
+	margin: 0px 0px 0px 0px;
+}
+.title-two img{
+	margin: 0px 0px 0px 65px;
+}
+.title-three{
+	width:100%;
+	margin: 0px 0px 0px 0px;
+}
+.title-three .title-social{
+	width:100%;
+	margin: 0px 0px 0px 0px;
+}
+.title-three .title-social ul li{
+	list-style: none;
+	display: inline-block;
+}
+.title-three .title-social ul li a i{
+	color: #f09d67;
+	border: 1px solid#f09d67;
+	background: transparent;
+	padding: 10px;
+	border-radius: 20px;
+	margin: 0px 0px 0px 12px;
+}
+.title-three .title-social ul li a i:hover{
+	background: #f09d67;
+	color: #fff;
+	border: 1px solid#f09d67;
+}
+.title-three .input-group-prepend .btn {
+    background: #000;
+    color: #fff;
+    margin: -52px 0px 18px 240px;
+}
+.title-three .dropdown-item {
+	font-family: 'BenchNine', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    color: #4c4c4c;
+    background: #f09d67;
+}
+.title-three .dropdown-item:hover{
+	color: #fff;
+}
+/**********************************************************
+	*** Title-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Slider-section css code html code start***
+**********************************************************/
+.slider-section{
+	width: 100%;
+	margin: -20px 0px 0px 0px;
+	background-image: url(../images/5.png);
+    background-repeat: no-repeat;
+  	background-position: center;
+  	background-size: cover;
+  	 height: 634px;
+}
+.slider-inner h1 {
+    color: #fff;
+    text-align: center;
+    margin: 0px 0px 418px 42px;
+    font-size: 5px;
+}
+.btn-3 {
+    background: #f09d67;
+    color: #fff;
+    border: 1px solid#f09d67;
+    padding: 12px 20px;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0px 0px 0px 582px;
+}
+.btn-3:hover{
+	background: transparent;
+	border: 1px solid#fff;
+	color: #000;
+	transition: 0.8s;
+}
+/**********************************************************
+	*** Slider-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Support-section css code html code start***
+**********************************************************/
+.support-section {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    background: #ffffff;
+    padding: 34px 0px 33px;
+}
+.support-1{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.support-1 img {
+    margin: 0px 0px 0px -20px;
+    width: 389px;
+}
+.support-2{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.support-2 img{
+	margin: 0px 0px 0px 0px;
+    width: 389px;
+}
+.support-3{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.support-3 img{
+	margin: 0px 0px 0px 0px;
+    width: 389px;
+}
+/**********************************************************
+	*** Support-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Handpic-section css code html code end***
+**********************************************************/
+.handpic-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	padding: 50px 0px;
+}
+.handpic-top{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.handpic-top img {
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+}
+.handpic-bottom{
+	width: 100%;
+	margin: 70px 0px 0px 0px;
+}
+.handpic-bottom .hand-1{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.handpic-bottom .im-1 img {
+    width: 100%;
+    margin: 0px 0px -93px 0px;
+}
+.handpic-bottom .im-2 img {
+    width: 100%;
+    margin: 56px 0px 0px 0px;
+}
+.handpic-bottom .hand-2{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.handpic-bottom .hand-2 img {
+    width: 100%;
+    height: 713px;
+}
+.handpic-bottom .hand-3{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.handpic-bottom .hand-3 img {
+    width: 100%;
+    margin-bottom: 13px;
+}
+.btn-4 {
+    background: #f09d67;
+    color: #fff;
+    border: 1px solid#f09d67;
+    padding: 12px 20px;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0px 0px 0px 94px;
+}
+.btn-4:hover{
+	background: transparent;
+	border: 1px solid#fff;
+	color: #fff;
+	transition: 0.8s;
+}
+/**********************************************************
+	*** Handpic-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Summer-section css code html code start***
+**********************************************************/
+.summer-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	padding: 50px 0px;
+}
+.summer-top{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.summer-top img{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.summer-bottom{
+	width: 100%;
+	margin: 70px 0px 0px 0px;
+}
+.summer-1{
+	width: 105%;
+	margin: 0px 0px 0px 0px;
+}
+.summer-1 img {
+    width: 100%;
+    margin: 0px 0px -26px 0px;
+}
+.summer-2{
+	width: 105%;
+	margin: 0px 0px 0px 0px;
+}
+.summer-2 img{
+	width: 100%;
+	margin: 0px 0px -26px 0px;
+}
+.summer-3{
+	width: 105%;
+	margin: 0px 0px 0px 0px;
+}
+.summer-3 img{
+	width: 100%;
+	margin: 0px 0px -26px 0px;
+}
+.summer-4 {
+    width: 105%;
+    margin: -5px 0px 18px 0px;
+}
+.summer-4 img {
+    width: 100%;
+    margin: 6px 0px -26px 0px;
+}
+.btn-5{
+	background: #000;
+	color: #c3c3c3;
+	border: 1px solid#000;
+}
+.btn-5:hover{
+	color: #fff;
+	background: #f09756;
+	border: 1px solid#f09756;
+	transition: 0.8s;
+}
+/**********************************************************
+	*** Summer-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Brand-section css code html code start***
+**********************************************************/
+.brand-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	padding: 50px 0px;
+}
+.brand-top{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.brand-top img{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.brand-bottom{
+	width: 100%;
+	margin: 70px 0px 0px 0px;
+}
+.brand-bottom img {
+    margin: 0px 0px 0px 49px;
+}
+.brand-bottom img:hover{
+	box-shadow: 1px 10px 15px#ccc;
+	transition: 0.2s;
+}
+/**********************************************************
+	*** Brand-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Customer-section css code html code start***
+**********************************************************/
+.customer-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	padding: 50px 0px 0px;
+}
+.customer-top{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.customer-top img{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.customer-bottom {
+    width: 100%;
+    margin: 70px 0px 0px 0px;
+    background: url(../images/35.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 391px;
+}
+.customer-left{
+	width: 100%;
+	margin: 0px 0px 0px 51px;
+}
+.customer-left .cus{
+	width: 50%;
+	margin: 0px 0px 0px 0px;
+}
+.customer-left .cus img {
+    width: 74%;
+    margin: 42px 0px 0px 0px;
+}
+.customer-left .wri {
+    width: 100%;
+    margin: -206px 0px 0px 233px;
+}
+.customer-left .wri h4 {
+    margin: 0px 0px 46px 0px;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+    font-style: italic;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.customer-left .wri img{
+	margin: 0px 0px 0px 0px;
+}
+.customer-left .wri h5 {
+    margin: 18px 0px 0px 0px;
+    color: #86827f;
+    font-size: 15px;
+    font-weight: 600;
+}
+.customer-right{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.customer-right .cus {
+    width: 50%;
+    margin: 0px 0px 0px 337px;
+}
+.customer-right .cus img {
+    width: 74%;
+    margin: 42px 0px 0px 0px;
+}
+.customer-right .wri {
+    width: 100%;
+    margin: -206px 0px 0px -303px;
+    text-align: right;
+}
+.customer-right .wri h4 {
+    margin: 0px 0px 46px 0px;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+    font-style: italic;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.customer-right .wri img{
+	margin: 0px 0px 0px 0px;
+}
+.customer-right .wri h5 {
+    margin: 18px 0px 0px 0px;
+    color: #86827f;
+    font-size: 15px;
+    font-weight: 600;
+}
+/**********************************************************
+	*** Customer-section css code html code end***
+**********************************************************/
+
+/**********************************************************
+	*** Footer-section css code html code start***
+**********************************************************/
+.footer-section {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    background: #141414;
+    padding: 0px 0px 15px;
+}
+.shops{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.shops h2 {
+    margin: 45px 0px 20px 6px;
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: 700;
+}
+.shops .nav-link.active {
+	color: #737373;
+	margin: 0px 0px -13px 0px;
+}
+.shops .nav-link {
+	color: #737373;
+	margin: 0px 0px -13px 0px;
+}
+.information{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.information h2 {
+    margin: 45px 0px 20px 0px;
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: 700;
+}
+.information .nav-link.active {
+	color: #737373;
+	margin: 0px 0px -13px 0px;
+}
+.information .nav-link {
+	color: #737373;
+	margin: 0px 0px -13px 0px;
+}
+.customer{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.customer h2 {
+    margin: 45px 0px 20px 0px;
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: 700;
+}
+.customer .nav-link.active {
+	color: #737373;
+	margin: 0px 0px -13px 0px;
+}
+.customer .nav-link {
+	color: #737373;
+	margin: 0px 0px -13px 0px;
+}
+.stay{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.stay h2 {
+    margin: 45px 0px 20px 0px;
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: 700;
+}
+.social-icon{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.social-icon ul li{
+	list-style: none;
+	display: inline-block;
+}
+.social-icon ul li a i{
+	color: #141414;
+	background: #fff;
+	padding: 12px;
+	border-radius: 20px;
+	font-size: 15px;
+	font-weight: 600;
+	margin-right: 10px;
+}
+.social-icon ul li a i:hover{
+	background: transparent;
+	color: #f09d67;
+	border: 1px solid#f09d67;
+	transition: 0.5s;
+}
+.stay h3 {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.subs {
+    margin: 47px 0px 0px 0px;
+}
+.subs input#inputPassword2 {
+    width: 100%;
+    margin: 0px 116px 0px -106px;
+    background: transparent;
+    border: 1px solid#323031;
+    color: #fff;
+}
+.subs input#inputPassword2:hover{
+	color: #fff;
+	background: transparent;
+	border: 1px solid#323031;
+}
+.btn-6 {
+    background: #323031;
+    border: 1px solid#323031;
+    color: #c3c3c3;
+    margin: -47px 0px 0px 129px;
+    padding: 7px 13px;
+    font-weight: 600;
+
+}
+.btn-6:hover{
+	color: #fff;
+	background: #f09756;
+	border: 1px solid#f09756;
+	transition: 0.8s;
+}
+.footer-bottom{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.footer-bottom img {
+    width: 100%;
+    margin: 90px 0px 45px 0px;
+}
+.footer-left{
+	width: 100%;
+	margin: 0px 0px 0px 0px; 
+}
+.footer-left p {
+    color: #2d2d2d;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.card-section{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+.card-section ul li{
+	list-style: none;
+	display: inline-block;
+}
+.card-section ul li a i {
+    color: #9a9a9a;
+    font-size: 30px;
+    margin-right: 6px;
+}
+.card-section ul li a .fa-cc-visa:hover{
+	color: #1a1f71;
+	background: #fff;
+}
+.card-section ul li a .fa-cc-mastercard:hover{
+	color: #f79e1b;
+	background: #eb001b;
+}
+.card-section ul li a .fa-cc-amex:hover{
+	color: #006fcf;
+	background: #fff;
+}
+.card-section ul li a .fa-cc-discover:hover{
+	color: #ea7a44;
+	background: #fff;
+}
+
+/*back to top css start */
+.back-to-top {
+    cursor: pointer;
+    position: relative;
+    bottom: 88px;
+    right: 128px;
+    display: block;
+    background: transparent;
+    border: 0px;
+    margin: -57px -26px 16px 1306px;
+}
+.back-to-top:hover{
+	background: transparent;
+	border: 0px;
+}
+.btn-7 {
+    color: #fff;
+    background-color: transparent!important;
+    border-color:transparent !important;
+}
+.btn-7.focus, .btn-7:focus {
+    color: #fff;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.btn-7:hover {
+    color: #fff;
+    background-color:transparent !important;
+    border-color: transparent !important;
+}
+/*back to top css end */
+/**********************************************************
+	*** Footer-section css code html code end***
+**********************************************************/

@@ -1,0 +1,407 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 480px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  /*css code start*/
+  .header-right {
+    margin: -44px 0px 0px 224px!important;
+}
+.title-one .nav-link {
+    margin: 0px 0px 0px -4px!important;
+}
+.title-two img {
+    margin: 6px 0px 10px 28px!important;
+}
+.title-three .title-social {
+    margin: 0px 0px 0px 0px!important;
+    text-align: center!important;
+}
+.title-three .input-group-prepend .btn {
+    margin: 3px 0px 6px 98px!important;
+}
+.slider-section {
+    height: 156px!important;
+}
+.support-1 img {
+    margin: 0px 0px 15px -20px!important;
+    width: 323px!important;
+}
+.btn-3 {
+    padding: 3px 3px!important;
+    font-size: 15px!important;
+    margin: 0px 0px 0px 96px!important;
+}
+.slider-inner h1 {
+    margin: 0px 0px 109px 42px!important;
+}
+.handpic-top img {
+    margin: -87px 0px 0px -108px!important;
+    width: 500px!important;
+}
+.handpic-bottom .hand-1 {
+    margin: -70px 0px 0px 0px!important;
+}
+.btn-4 {
+    padding: 3px 3px!important;
+    font-size: 15px!important;
+    margin: 0px 0px 0px 96px!important;
+}
+.summer-top img {
+    margin: 0px 0px 15px -13px!important;
+    width: 100%!important;
+}
+.summer-top {
+    margin: -49px 0px 0px 0px!important;
+}
+.summer-1 img {
+    margin: -64px 0px -26px 0px!important;
+}
+.brand-top img {
+     margin: -87px 0px 0px -108px!important;
+    width: 500px!important;
+}
+.brand-bottom img {
+    margin: 0px 0px 27px 88px!important;
+}
+.customer-top img {
+ margin: -87px 0px 0px -108px!important;
+    width: 500px!important;
+}
+.customer-bottom {
+    margin: -20px 0px 0px 0px!important;
+    height: 403px!important;
+}
+.customer-left .cus img {
+    width: 74%!important;
+    margin: 66px 0px 0px -70px!important;
+}
+.customer-left .wri {
+    margin: -127px 0px 0px 34px!important;
+}
+.customer-left .wri h4 {
+    margin: 0px 0px 14px 0px!important;
+    font-size: 15px!important;
+}
+.customer-right .cus {
+    margin: 0px 0px 0px 197px!important;
+}
+.customer-right .wri {
+    margin: -125px 0px 0px -91px!important;
+}
+.customer-right .wri h4 {
+    margin: 0px 0px 14px 0px!important;
+    font-size: 15px!important;
+}
+.customer-right {
+    margin: -16px 0px 0px 2px!important;
+}
+.subs input#inputPassword2 {
+    margin: 0px 116px 0px -2px!important;
+}
+.btn-6 {
+    margin: -47px 0px 0px 177px!important;
+}
+.footer-bottom img {
+    margin: 45px 0px 45px 0px!important;
+}
+.back-to-top {
+    margin: 25px -26px -84px 379px!important;
+}
+
+.header-right .navbar-light .navbar-nav .active>.nav-link {
+    margin: 0px 0px 0px -99px!important;
+}
+.header-right .navbar-light .navbar-nav .nav-link {
+    margin: 0px 0px 0px -79px!important;
+}
+
+  /*css code end*/
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+   /*css code start*/
+.header-right {
+    margin: -46px 0px 0px 362px!important;
+}
+.title-one .nav-link {
+    margin: 0px 0px 0px 27px!important;
+}
+.title-two img {
+    margin: 6px 0px 10px 99px!important;
+}
+.title-three .title-social {
+    margin: 0px 0px 0px 0px!important;
+    text-align: center!important;
+}
+.title-three .input-group-prepend .btn {
+    margin: 3px 0px 18px 181px!important;
+}
+.slider-section {
+    height: 233px!important;
+}
+.support-1 img {
+    margin: 0px 0px 19px 43px!important;
+    width: 372px!important;
+}
+
+
+.btn-3 {
+    padding: 6px 6px!important;
+    font-size: 15px!important;
+    margin: 0px 0px 0px 179px!important;
+}
+.slider-inner h1 {
+    margin: 0px 0px 171px 42px!important;
+}
+.handpic-top img {
+    margin: -87px 0px 0px -2px!important;
+    width: 100%!important;
+}
+.handpic-bottom .hand-1 {
+    margin: -70px 0px 0px 0px!important;
+}
+.btn-4 {
+    padding: 6px 6px!important;
+    font-size: 15px!important;
+    margin: 0px 0px 0px 179px!important;
+}
+.summer-top img {
+    margin: 22px 0px 0px -12px!important;
+    width: 100%!important;
+}
+
+.summer-top {
+    margin: -49px 0px 0px 0px!important;
+}
+.summer-1 img {
+    margin: -31px 0px -26px 0px!important;
+}
+.brand-top img {
+    margin: -87px 0px 0px 2px!important;
+    width: 100%!important;
+}
+.brand-bottom img {
+    margin: 0px 0px 30px 62px!important;
+}
+.customer-top img {
+ margin: -87px 0px 0px 7px!important;
+    width: 100%!important;
+}
+.customer-bottom {
+    margin: -6px 0px 0px 0px!important;
+    height: 565px!important;
+}
+.customer-left .cus img {
+    width: 74%!important;
+    margin: 66px 0px 0px -70px!important;
+}
+.customer-left .wri {
+    margin: -127px 0px 0px 93px!important;
+}
+.customer-left .wri h4 {
+    margin: 0px 0px 14px 0px!important;
+    font-size: 15px!important;
+}
+.customer-right .cus {
+    margin: 0px 0px 0px 197px!important;
+}
+.customer-right .cus img {
+    margin: 62px 0px 0px 98px!important;
+}
+.customer-right .wri {
+    margin: -135px 0px 0px -159px!important;
+}
+.customer-right .wri h4 {
+    margin: 0px 0px 14px 0px!important;
+    font-size: 15px!important;
+}
+.customer-right {
+    margin: -16px 0px 0px 2px!important;
+}
+.subs input#inputPassword2 {
+    margin: 0px 127px 0px 4px!important;
+}
+.btn-6 {
+    margin: -47px 0px 0px 244px!important;
+}
+.footer-bottom img {
+    margin: 45px 0px 45px 0px!important;
+}
+.back-to-top {
+    margin: 20px -26px -16px 522px!important;
+}
+.header-right .navbar-light .navbar-nav .active>.nav-link {
+    margin: 0px 0px 0px -99px!important;
+}
+.header-right .navbar-light .navbar-nav .nav-link {
+    margin: 0px 0px 0px -79px!important;
+}
+.handpic-bottom .im-1 img {
+    width: 100%!important;
+    margin: -4px 0px -87px 0px!important;
+    height: 330px!important;
+}
+.handpic-bottom .im-2 img {
+    width: 100%!important;
+    margin: 71px 0px 28px 0px!important;
+    height: 351px!important;
+}
+.handpic-bottom .hand-3 img {
+    width: 100%!important;
+    margin: 30px 0px 2px 0px!important;
+    height: 351px!important;
+}
+
+/*css code end*/
+
+}
+
+/* 
+  ##Device = Tablets, Ipads
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    /*css code start*/
+.header-right {
+    margin: 0px 0px 0px 262px!important;
+}
+.title-one .nav-link {
+    margin: 0px 0px 0px -23px!important;
+}
+.title-two img {
+    margin: 6px 0px 10px -2px!important;
+}
+.title-three .title-social {
+    margin: 0px 0px 0px 0px!important;
+    text-align: center!important;
+}
+.title-three .input-group-prepend .btn {
+    margin: 3px 0px 10px 58px!important;
+}
+.slider-section {
+    height: 374px!important;
+}
+.support-1 img {
+    margin: 0px 0px 15px -28px!important;
+    width: 263px!important;
+}
+.btn-3 {
+    padding: 11px 11px!important;
+    font-size: 15px!important;
+    margin: 0px 0px 0px 319px!important;
+}
+.slider-inner h1 {
+    margin: 0px 0px 286px 42px!important;
+}
+.handpic-top img {
+    margin: -87px 0px 0px 7px!important;
+    width: 100%!important;
+}
+.handpic-bottom .hand-1 {
+    margin: -70px 0px 0px 0px!important;
+}
+.btn-4 {
+    padding: 3px 3px!important;
+    font-size: 15px!important;
+    margin: 0px 0px 0px 96px!important;
+}
+.summer-top img {
+    margin: 22px 0px 0px 7px!important;
+    width: 100%!important;
+}
+.summer-top {
+    margin: -49px 0px 0px 0px!important;
+}
+.summer-1 img {
+    margin: 1px 0px -26px 0px!important;
+}
+.brand-top img {
+    margin: -87px 0px 0px 7px!important;
+    width: 100%!important;
+}
+.brand-bottom img {
+    margin: 0px 0px 30px 73px!important;
+}
+.customer-top img {
+ margin: -87px 0px 0px 7px!important;
+    width: 100%!important;
+}
+.customer-bottom {
+    margin: -6px 0px 0px 0px!important;
+    height: 292px!important;
+}
+.customer-left .cus img {
+    width: 74%!important;
+    margin: 66px 0px 0px -70px!important;
+}
+.customer-left .wri {
+    margin: -127px 0px 0px 64px!important;
+}
+.customer-left .wri h4 {
+    margin: 0px 0px 14px 0px!important;
+    font-size: 15px!important;
+}
+.customer-right .cus {
+    margin: 0px 0px 0px 197px!important;
+}
+.customer-right .cus img {
+    margin: 80px 0px 0px 37px!important;
+}
+.customer-right .wri {
+    margin: -125px 0px 0px -124px!important;
+}
+.customer-right .wri h4 {
+    margin: 0px 0px 14px 0px!important;
+    font-size: 15px!important;
+}
+.customer-right {
+    margin: -16px 0px 0px 2px!important;
+}
+.subs input#inputPassword2 {
+    margin: 0px 46px 0px -48px!important;
+}
+.btn-6 {
+    margin: -47px 0px 0px 78px!important;
+}
+.footer-bottom img {
+    margin: 45px 0px 45px 0px!important;
+}
+.back-to-top {
+    margin: -46px -26px -16px 805px!important;
+}
+.header-right .navbar-light .navbar-nav .active>.nav-link {
+    margin: 0px 0px 0px -99px!important;
+}
+.header-right .navbar-light .navbar-nav .nav-link {
+    margin: 0px 0px 0px -79px!important;
+}
+.handpic-bottom .im-1 img {
+    width: 100%!important;
+    margin: 71px 0px -87px 0px!important;
+    height: 330px!important;
+}
+.handpic-bottom .im-2 img {
+    width: 100%!important;
+    margin: 71px 0px -87px 0px!important;
+    height: 351px!important;
+}
+.handpic-bottom .hand-3 img {
+    width: 100%!important;
+    margin: 0px 0px 10px 0px!important;
+    height: 351px!important;
+}
+
+  
+}
+
+
+
